@@ -16,7 +16,7 @@ The templates and code in this repository are designed to accompany a series of 
 - `templates/` - Contains CloudFormation templates for various components of the architecture.
 - `scripts/` - Contains auxiliary scripts for deployment and management.
 - `docs/` - Documentation and guides related to the templates and their usage.
-- `examples/` - Example configurations and deployments.
+- `images/` - Image files.
 
 ## Getting Started
 
@@ -30,5 +30,5 @@ The templates and code in this repository are designed to accompany a series of 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cloudformation-advanced-aws-deployments.git
+   git clone https://github.com/tallgray/cloudformation-advanced-aws-deployments.git
    cd cloudformation-advanced-aws-deployments
